@@ -1,2 +1,2 @@
-Self-taught developer
+Full-stack developer
 
