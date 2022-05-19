@@ -6,13 +6,13 @@
 
 # Portfolio
 
-#### Artisan BREAD e-commerce store – full stack app (2022)
+#### Artisan BREAD e-commerce store – full stack app (front-end React connected with restful API and back-end admin page) (2022)
 - Built front-end store using React (user registration, login/logout, add to cart, and checkout)
 -	Built back-end admin site using Express, Handlebars, Mysql, and db-migrate
 -	Deployed Stripe for payment checkout	
 -	[GitHub](https://github.com/Jerrysuper123/artisanBread) | [live link](https://chic-crostata-11c4b4.netlify.app/)
 
-#### eventful - front-end React app connected with restful API (2022)
+#### eventful - full stack (front-end React connected with restful API) (2022)
 - Locate nearby events on a map and plan outing for events on a calendar
 - Used React, Bootstrap, Material UI, Leaflet, Routing Machine, and Express	
 - [GitHub](https://github.com/Jerrysuper123/event-bite) | [live link](https://thunderous-pixie-be41eb.netlify.app/)
