@@ -11,7 +11,7 @@
 — Displays clean digital time with a cross marker at the top, designed to keep the wearer's focus spiritually grounded throughout the day.
 - Shows battery percentage, daily step count, and heart rate alongside dual-color time (hour in white, minute in yellow) with tick marks around the dial.
 - Built with Garmin Connect IQ SDK — written in Monkey C and tested across 4 devices (FR165, Fenix 7X Pro, Venu 3, Vivoactive 5).
--	[GitHub](https://github.com/Jerrysuper123/GarminHourlyVerseWatchFace) | [live link](https://developer.garmin.com/connect-iq/core-topics/publishing-to-the-store/)
+-	[GitHub](https://github.com/Jerrysuper123/GarminHourlyVerseWatchFace) | [live link](https://apps.garmin.com/apps/1c2cac1e-9e58-4997-a445-feca68b99e6c)
 
 #### Artisan BREAD e-commerce store – full stack app (front-end React connected with restful API and back-end admin page) (2022)
 - Built front-end store using React (user registration, login/logout, add to cart, and checkout)
