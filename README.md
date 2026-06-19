@@ -1,8 +1,4 @@
 # Full-stack developer
--	Finance and consulting background, with proven track record of delivering excellency in large MNCs
--	Believe coding skills will become indispensable in the future
--	Self learnt coding and spearheaded automation projects 
-- Currently pursuing a tech career, melding prior work experiences with coding
 
 # Portfolio
 
